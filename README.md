@@ -3,5 +3,5 @@ Bash script to brute force your id_rsa password
 
 requires ssh-keygen
 
-Usage: ./mm_idr_sa_bruteforce.sh <password file> <id_rsa file>
+Usage: "./mm_idr_sa_bruteforce.sh <password_file> <id_rsa_file>"
 
